@@ -1,3 +1,8 @@
+**NOTE**
+
+This is a copy of an old repository which has been updated to use Vite. The visualisations and calculations are correct but the dependencies are out very outdated. 
+
+
 # Option Pricing Visualisation
 
 A basic tool for visually understanding option pricing and how the greeks change based on input changes.
